@@ -1,0 +1,97 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato/Lato-Black.ttf",
+      "sha1": "a001eb827743636e04f8efa7d4aeedf0541c46ac"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-BlackItalic.ttf",
+      "sha1": "b490ec02c69bb74f5b4f487c59e984891c8da71c"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-BoldItalic.ttf",
+      "sha1": "6bf491e78e16d3b9c8a55752e1bd658e15ed7f19"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Italic.ttf",
+      "sha1": "190187b720ec2f2ff2e4281237e301000e09673f"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Light.ttf",
+      "sha1": "ad0d178564445a535b15d417f5b18019923d3bab"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-LightItalic.ttf",
+      "sha1": "34388d9a3b64380c9f08d424d0adaa88a0d1650a"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-Thin.ttf",
+      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+    },
+    {
+      "path": "assets/fonts/Lato/Lato-ThinItalic.ttf",
+      "sha1": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97"
+    },
+    {
+      "path": "assets/fonts/Lato/OFL.txt",
+      "sha1": "dced1a41948e9968f9026cbc7ddabbf88e65423b"
+    },
+    {
+      "path": "assets/fonts/Lora/Lora-Italic-VariableFont_wght.ttf",
+      "sha1": "732e917787efe8211bb910767d08c1f2c598acbd"
+    },
+    {
+      "path": "assets/fonts/Lora/Lora-VariableFont_wght.ttf",
+      "sha1": "a07008f1ec453e882c5d61483707ebdf3fd7b72c"
+    },
+    {
+      "path": "assets/fonts/Lora/OFL.txt",
+      "sha1": "627286a2216135d120cc6bec397b84906534abdd"
+    },
+    {
+      "path": "assets/fonts/Lora/README.txt",
+      "sha1": "2d8888c10045c5a067b0a72dbc93725566926b1b"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-Bold.ttf",
+      "sha1": "e99487fd02ba70750b66536cd668cf6c5a7a334b"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-BoldItalic.ttf",
+      "sha1": "91e7e2019f706627e344b3cc3dafebccfddc1a33"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-Italic.ttf",
+      "sha1": "dc425fde9706d9c095c14d622f1348c5cec6bbbc"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-Medium.ttf",
+      "sha1": "bdee2d6093aeb360b44f750d0713ef6e2eb42f01"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-MediumItalic.ttf",
+      "sha1": "536dfe3560d9e8738039d09e77e4889a5134f74a"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-Regular.ttf",
+      "sha1": "37441667677811e25dae30850b0263e0d39bf959"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-SemiBold.ttf",
+      "sha1": "fc1d18b0360fa441d8ca088ad576ede33052025d"
+    },
+    {
+      "path": "assets/fonts/Lora/static/Lora-SemiBoldItalic.ttf",
+      "sha1": "7dd55b2f98450497e7ef0e0184a624090058bb58"
+    }
+  ]
+}
